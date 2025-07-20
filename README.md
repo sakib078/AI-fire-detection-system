@@ -16,6 +16,14 @@ The Urban Fire Detection System employs a multi-modal approach to detect fires a
 
 ---
 
+## **📸 Project Images**
+- ![CNN OUTPUT 1](image/CNN-model-image-1.jpg)
+- ![CNN OUTPUT 2](image/CNN-model-image-2.jpg)
+- ![CNN OUTPUT 3](image/CNN-model-image-3.jpg)
+- ![Circuit Image](image/circuit-image.jpg) *Hardware setup*
+
+---
+
 ## **⚙️ How It Works**
 
 1. **📸 Image Capture**: The ESP32-S3-WROOM camera captures images at regular intervals and sends them to the Flask server.
