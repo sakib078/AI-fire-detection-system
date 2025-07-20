@@ -1,0 +1,11 @@
+.build
+.mbed
+projectfiles
+*.py*
+BUILD
+.clangd
+.cache
+compile_commands.json
+mbed-os
+DHT11
+DHT

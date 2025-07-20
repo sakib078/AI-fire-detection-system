@@ -1,0 +1,8 @@
+https://www.geeksforgeeks.org/flask-creating-first-simple-application/
+
+
+modules library used:
+https://os.mbed.com/users/sebbarpar/code/ov7670/
+
+
+https://forum.arduino.cc/t/fastest-way-to-send-images-from-esp32cam-to-cloud-server/1282826
