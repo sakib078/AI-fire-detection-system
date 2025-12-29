@@ -13,8 +13,8 @@
 HardwareSerial K66Serial(1);  // UART1
 
 // WiFi and Server Configuration
-const char* ssid = "BELL476";
-const char* password = "12D1F633E97A";
+const char* ssid = "your_wifi_name";
+const char* password = "your_wifi_password";
 String serverName = "http://192.168.2.18:5000";
 String sensorPath = "/receive_sensor_data";
 String imagePath = "/receive_image";
