@@ -4,7 +4,7 @@ import os
 from roboflow import Roboflow
 import os
 
-rf = Roboflow(api_key="2PUyjHKQ4JQsYGv8eWJv")  # Replace with your Roboflow API key
+rf = Roboflow(api_key="your_api_key")  # Replace with your Roboflow API key
 project = rf.workspace("middle-east-tech-university").project("fire-and-smoke-detection-hiwia")
 
 # Get all versions
